@@ -1,4 +1,4 @@
-// 긴자리 계산
+// 긴자리 계산 (2338)
 const input = require('fs')
   .readFileSync('/dev/stdin')
   .toString()
