@@ -1,4 +1,4 @@
-// A/B
+// A/B (1008)
 const input = require('fs')
   .readFileSync('/dev/stdin')
   .toString()
