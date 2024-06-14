@@ -1,4 +1,4 @@
-// 두 수 비교하기
+// 두 수 비교하기 (1330)
 const input = require('fs')
   .readFileSync('/dev/stdin')
   .toString()
