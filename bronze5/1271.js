@@ -1,4 +1,4 @@
-// 엄청난 부자2
+// 엄청난 부자2 (1271)
 const input = require('fs')
   .readFileSync('/dev/stdin')
   .toString()
