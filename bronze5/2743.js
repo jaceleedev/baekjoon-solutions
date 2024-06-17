@@ -1,3 +1,4 @@
+// 단어 길이 재기 (2743)
 const input = require('fs')
   .readFileSync('/dev/stdin')
   .toString()
